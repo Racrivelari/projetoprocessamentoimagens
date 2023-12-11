@@ -26,9 +26,9 @@ Foram utilizados 3 tipos distintos de classificadores e obtivemos 6 resultados, 
 ![Resultado 2](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/LBPClassifierResults.png?raw=true)
 
 ## Instruções de Uso 
-Instalar [Python] na máquina
-Instalar [Git Bash]
-Instalar [Visual Studio Code]
+- Instalar [Python] na máquina
+- Instalar [Git Bash]
+- Instalar [Visual Studio Code]
 
 - Criar uma pasta local onde ficará o download do projeto
 - Abrir o diretório da pasta criada e realizar o clone do projeto
