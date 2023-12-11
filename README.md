@@ -22,23 +22,13 @@ Foram utilizados 3 tipos distintos de classificadores e obtivemos 6 resultados, 
 - [Support Vector Machine - SVM] - Encontrar um hiperplano de separação no espaço de características
 - [Random Forest - RF] - Conjunto de árvores de decisão, classificação final obtida majoritariamente
 
-#
-#
-#
-#
-#
+
 ##### Resultado utilizando Hu Moments
-#
-#
-#
+
 ![Resultado 1](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/huMomentsClassifierResults.png?raw=true)
-#
-#
-#
+
 ##### Resultado utilizando Local Binary Patterns 
-#
-#
-#
+
 ![Resultado 2](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/LBPClassifierResults.png?raw=true)
 
 ## Instruções de Uso 
