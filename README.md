@@ -53,6 +53,7 @@ pip install scikit-image
 pip install matplotlib
 ```
 - Abrir o arquivo: grayHistogram_FeatureExtraction.py e executá-lo no canto superior direito do Visual Studio Code:
+#
 ![Exec Img](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/execPythonFileExtraction.png?raw=true)
 - Após executar esse arquivo, na pasta Hu Moments Features e LBP Features surgirão novos arquivos
 - Após aparecer esses arquivos, abrir o arquivo run_all_classifier.py e executá-lo da mesma maneira citada a cima
