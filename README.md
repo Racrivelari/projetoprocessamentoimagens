@@ -9,12 +9,6 @@
 - [Hu Moments] - Descritor baseado no formato da imagem
 - [LBP] - Descritor baseado nas texturas e histograma da imagem
 
-## Repositório 
-
-| Plataforma | Link |
-| ------ | ------ |
-| GitHub | https://github.com/Racrivelari/projetoprocessamentoimagens |
-
 
 ## Classificadores e acurácias
 Foram utilizados 3 tipos distintos de classificadores e obtivemos 6 resultados, sendo 2 pra cada classificador, dividos entre os artefatos obtidos do descritor Hu Moments e LBP.
