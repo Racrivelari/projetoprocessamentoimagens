@@ -44,6 +44,7 @@ git clone https://github.com/Racrivelari/projetoprocessamentoimagens.git
 ```
 
 - No VS Code, ir na aba de extensões e baixar as seguintes extensões:
+#
 ![Extensão Code Runner](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/codeRunner.png?raw=true)
 ![Extensão Python](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/python.png?raw=true)
 
