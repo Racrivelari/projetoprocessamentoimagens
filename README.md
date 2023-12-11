@@ -31,10 +31,6 @@ Foram utilizados 3 tipos distintos de classificadores e obtivemos 6 resultados, 
 
 ![Resultado 2](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/imagesREADME/LBPClassifierResults.png?raw=true)
 
-
-## Vídeo 
-![Video](https://github.com/Racrivelari/projetoprocessamentoimagens/blob/main/VideoProjetoProcImagens.mp4?raw=true)
-
 ## Instruções de Uso 
 - Instalar [Python] na máquina
 - Instalar [Git Bash]
